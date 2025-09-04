@@ -1,0 +1,11 @@
+
+httpx
+python-dotenv
+azure-identity
+azure-ai-agents
+a2a
+a2a-sdk
+azure-ai-projects
+azure-identity
+semantic_kernel
+azure-search-documents
